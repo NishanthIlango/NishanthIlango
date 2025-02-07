@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 I'm Nishanth<br>Pursuing B.Tech at Amrita Vishwa Vidhyapeetam<br><br>🔭 Passionate about App Development, Software Development, and Programming.<br>🔮 Currently learning Postman API and Machine Learning.<br>⚡ Check out my[website]✌️(https://nishanthporfolio.netlify.app/)
+Hi! 👋 I'm Nishanth<br>Pursuing B.Tech at Amrita Vishwa Vidhyapeetam<br><br>🔭 Passionate about App Development, Software Development, and Programming.<br>🔮 Currently learning Postman API and Machine Learning.<br>⚡ Check out my [Portfolio](https://nishanthporfolio.netlify.app/)✌️
 
 
 ## 🌐 Socials:
